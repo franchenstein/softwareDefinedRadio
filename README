@@ -1,0 +1,11 @@
+Project: SDR
+Author: Daniel Franch
+Description:
+
+LabView codes to implement the lab exercises proposed in 
+"Digital Communications: Physical Layer Exploration Lab Using The NI USRP Platform"
+By Robert W. Heath Jr., Ph.D., P.E.
+Those are my implementations for the Penn State's EE497E SDR course.
+To run it, just open Simulator and check if the communication goes well.
+If you have the NI USRP it is possible to run it with the equipment by configuring it
+in top_tx and top_rx and using them to see wireless communication. 
